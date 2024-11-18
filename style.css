@@ -3,6 +3,9 @@ body{
         color:plum;
         background: whitesmoke;
     }
+    header {
+        border: solid 2px pink;
+    }
 }
 
 

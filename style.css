@@ -24,13 +24,13 @@ img{
 
 
 .categoria-vídeos{
-display: flex;
-overflow-x:auto;
-gap: 20px;
-}
+    display: flex;
+    overflow-x:auto;
+    gap: 20px;
+    }
 header {
     border-bottom: solid 2px rgb(230, 98, 186);
-    padding: 20px;
+    padding: 2px;
 }
 header {
     border-bottom: solid 2px rgb(230, 43, 183);

@@ -1,12 +1,12 @@
 
 body{
-        color:plum;
-        background: whitesmoke;
+        color:rgb(228, 42, 129);
+        background: rgba(216, 67, 179, 0.384);
     }
 
     
     header {
-        border: solid 2px red;
+        border: solid 2px rgb(231, 48, 161);
     }
 }
 

@@ -28,3 +28,9 @@ display: flex;
 overflow-x:auto;
 gap: 20px;
 }
+header {
+    border-bottom: solid 2px rgb(228, 42, 129);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(228, 42, 129);
+}
